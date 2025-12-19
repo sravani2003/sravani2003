@@ -1,5 +1,5 @@
 # Hi there, I'm Sravani Bandela! 👋
-### 🚀 Data Scientist | GenAI Specialist | M.Tech AI & ML
+### 🚀 Data Scientist | M.Tech AI & ML
 
 I am a results-driven **Data Scientist** and **AWS Certified Solutions Architect** passionate about building scalable AI systems that solve real-world problems. My focus bridges the gap between **State-of-the-Art Research** (GenAI, Machine Learning, Advanced NLP) and **Operational Efficiency**.
 
