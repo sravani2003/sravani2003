@@ -17,7 +17,7 @@ I am a results-driven **Data Scientist** and **AWS Certified Solutions Architect
 
 ### 📊 Featured Projects
 * **[Intrusion Detection System](https://github.com/sravani2003/Intrusion-Detection-System-Project)** - A Random-Forest based security framework for classifying network attacks (Safety-First AI).
-* **[RAG Quality Inspector](https://github.com/sravani2003/RAG-Quality-Inspector) – An inspection and evaluation tool for Retrieval-Augmented Generation (RAG) systems that detects hallucination risk, measures retrieval confidence, and visualizes retrieved context for trustworthy GenAI applications.
+* **[RAG Quality Inspector](https://github.com/sravani2003/RAG-Quality-Inspector)** – An inspection and evaluation tool for Retrieval-Augmented Generation (RAG) systems that detects hallucination risk, measures retrieval confidence, and visualizes retrieved context for trustworthy GenAI applications.
 
 
 ---
